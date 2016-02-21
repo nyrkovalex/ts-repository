@@ -1,6 +1,6 @@
 {
   "name": "ts-repository",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Repository template interfaces and stub in-memory implementation",
   "main": "js/src/repos.js",
   "typings": "js/src/repos",
