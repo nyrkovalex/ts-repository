@@ -4,8 +4,7 @@
 		"target": "es6",
 		"outDir": "../js",
 		"noImplicitAny": true,
-		"declaration": true,
-    "sourceMap": true
+		"declaration": true
 	},
   "exclude": [
     "typings/browser",
